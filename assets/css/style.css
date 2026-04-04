@@ -234,6 +234,15 @@ body {
   font-style: italic;
 }
 
+/* ---- すべて見るリンク ---- */
+.nav-more a {
+  font-size: 0.8em;
+  color: #888;
+}
+.nav-more a:hover {
+  color: #3b82f6;
+}
+
 /* ---- レスポンシブ（スマホ対応） ---- */
 @media (max-width: 768px) {
   .layout-wrapper {
