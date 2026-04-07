@@ -14,4 +14,4 @@ layout: default
 
 ## PDCAシート
 
-[PDCAサイクルを記入する](https://docs.google.com/spreadsheets/d/1nX4NGzIYdv53xisgOSyFRFXYj6wn7G2yh8Zq6criBD8/edit#gid=1122860207)
+<a href="https://docs.google.com/spreadsheets/d/1nX4NGzIYdv53xisgOSyFRFXYj6wn7G2yh8Zq6criBD8/edit#gid=1122860207" target="_blank" rel="noopener">PDCAサイクルを記入する</a>
