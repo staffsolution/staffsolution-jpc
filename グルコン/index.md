@@ -10,6 +10,7 @@ layout: default
 
 | 日付 | Zoomを見る | 議事録 |
 |------|------------|--------|
+| 2026-08-14 | <a href="https://us06web.zoom.us/rec/share/TEE7VO5vPEztHWiTHlQAmhoxgOZWmTql4D5OUNajqYAYrw23CPMERAryE7AD2CaK.A7OtHcrRV3Kwt0Nu" target="_blank" rel="noopener noreferrer">Zoomを見る ↗</a> | [グループコンサル議事録](./20260814_グルコン議事録) |
 | 2026-08-07 | <a href="https://us06web.zoom.us/rec/share/kttu-gaAoFhdOkd81r_Jy6NrfiuPC5ZN0UVI4rKLH9266bRRT5eR9sirt5G7LKMn.m8EkDhbCUG40KNNQ" target="_blank" rel="noopener noreferrer">Zoomを見る ↗</a> | [グループコンサル議事録](./20260807_グルコン議事録) |
 | 2026-07-30 | <a href="https://us06web.zoom.us/rec/share/y5JW6nQG0ZV2yvMT7kZMu6hihSocCNNt5ADw2bFS4mK0mfN1KRm0wOnOiq2sAHGq.E1uzRH9bTt60tNrz" target="_blank" rel="noopener noreferrer">Zoomを見る ↗</a> | [グループコンサル議事録](./20260730_グルコン議事録) |
 | 2026-07-24 | <a href="https://us06web.zoom.us/rec/share/jnmFMbfqZdBoHn6uaTsvTZ5RlYSxkjDNkwDtWMJBUISrumuKIQL9jj4Blvbg1X4J.e2NychyJjQXjM58q" target="_blank" rel="noopener noreferrer">Zoomを見る ↗</a> | [グループコンサル議事録](./20260724_グルコン議事録) |
